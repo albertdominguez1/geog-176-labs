@@ -1,1 +1,1 @@
-# geog-176-labs
+# geog-176A-labs
